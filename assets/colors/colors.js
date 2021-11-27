@@ -6,7 +6,10 @@ const colors = {
     textLight: '#CDCDCD',
     white: '#fff',
     price: '#E4723C',
-    black:'#000'
+    black:'#000',
+    blue:'#1C215D',
+    gray: '#666666',
+    blueFaded:'#8D8FAD'
 }
 
 
