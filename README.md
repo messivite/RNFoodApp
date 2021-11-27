@@ -4,6 +4,24 @@
 
 - Figma UI Design [https://www.figma.com/file/N5w7f1Z7gQpTBUMrEf4DHY/Meditation-app-UI-(Community)?node-id=0%3A1](https://www.figma.com/file/N5w7f1Z7gQpTBUMrEf4DHY/Meditation-app-UI-(Community)?node-id=0%3A1)
 
+
+<h1 align="left">Installing :</h1>
+
+<p><code>yarn install</code></p>
+<p><code>npx pod-install ios</code></p>
+<p><code>yarn run ios</code></p>
+
+
+- React Native,
+- React Navigation,
+
+UI Screenshots:
+<p><img height="500" src="https://serving.photos.photobox.com/94372595c3fac7f7953cdb52fe19308092d4350c31776ee1f9c40ad66bf2913c1131f6c4.jpg" border="0"/>
+ <img height="500" src="https://serving.photos.photobox.com/29405023ca0c6b3721e93cab7f3272acb824c315a30346515e991ebd2a08d6e3e9779153.jpg"
+</p>
+
+
+
 - 👨‍💻 Other projects available at [https://www.instarepost.net](https://www.instarepost.net)
 
 - 💬 Ask me about **react,react native**
